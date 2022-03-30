@@ -56,6 +56,19 @@
       "method": "Cut slices of cheese and place on bread. Melt in microwave for 50 seconds.",
       "cookingTime": "1 minutes",
       "id": "lthid_F"
+    },
+    {
+      "title": "Cheeseburgers",
+      "ingredients": [
+        "lettuce",
+        "patty",
+        "tomato",
+        "buns",
+        "cheese"
+      ],
+      "method": "Grill patty 4 minutes on each side. Add on toppings. ",
+      "cookingTime": "10 minutes",
+      "id": "VB42aki"
     }
   ]
 }
