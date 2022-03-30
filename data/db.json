@@ -36,6 +36,26 @@
       ],
       "method": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse minima ex rem quis similique eum ratione quaerat, voluptas molestias ut repudiandae delectus voluptates. Eius esse at tenetur ab accusamus excepturi?",
       "cookingTime": "35 minutes"
+    },
+    {
+      "title": "Grilled Cheese",
+      "ingredients": [
+        "bread",
+        "cheese"
+      ],
+      "method": "Cut slices of cheese and place on bread. Melt in microwave for 50 seconds.",
+      "cookingTime": "1 minutes",
+      "id": "NAC7ZBL"
+    },
+    {
+      "title": "Grilled Cheese",
+      "ingredients": [
+        "bread",
+        "cheese"
+      ],
+      "method": "Cut slices of cheese and place on bread. Melt in microwave for 50 seconds.",
+      "cookingTime": "1 minutes",
+      "id": "lthid_F"
     }
   ]
 }
